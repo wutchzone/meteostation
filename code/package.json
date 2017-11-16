@@ -1,0 +1,26 @@
+{
+  "name": "meteostation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "8.9.*",
+    "npm": "5.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wutchzone/meteostation.git"
+  },
+  "author": "Daniel Sedlak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wutchzone/meteostation/issues"
+  },
+  "homepage": "https://github.com/wutchzone/meteostation#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
